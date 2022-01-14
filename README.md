@@ -54,13 +54,13 @@
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
 | Nikhil Melligeri        | Section 001       | nikhil-melligeri     | <https://nikhil-melligeri.github.io/stat184-github-prac/>| 
-
+| Jonathan Kelso          | Section 001       | jdk5754              | <https://jdk5754.github.io/kelso-practice/>              |
 
 
 
 # Integration of RStudio with Git
 
-- Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
+- Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration) 
 - More detail if needed: <http://happygitwithr.com/index.html>
 
 *Content credit: This assignment was adapted from [Matt Beckman's GitHub Pages Assignment](https://mdbeckman.github.io/GitHub-Practice-184/).* 
