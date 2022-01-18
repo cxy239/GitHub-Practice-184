@@ -71,7 +71,7 @@
 | Sanidhya Singh          | Section 001       | sxs6549              | <https://sunny6549.github.io/STAT184GitHubPractice/>     |
 | Xuan Li                 | Section 001       | LHLFOREVER           | <https://lhlforever.github.io/STAT184-PRACTICE/>         |
 | Christopher Abrams      | Section 001       | chrisabrams3         | <https://chrisabrams3.github.io/animated-broccoli/>      |
-
+| Will Gerity             |  Section 001      |  willgerity          | <https://willgerity.github.io/GitHub-Practice-184/>      |
 
 
 
