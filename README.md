@@ -72,12 +72,13 @@
 | Xuan Li                 | Section 001       | LHLFOREVER           | <https://lhlforever.github.io/STAT184-PRACTICE/>         |
 | Christopher Abrams      | Section 001       | chrisabrams3         | <https://chrisabrams3.github.io/animated-broccoli/>      |
 | Will Gerity             |  Section 001      |  willgerity          | <https://willgerity.github.io/GitHub-Practice-184/>      |
+| Jonathan Kelso          | Section 001       | jdk5754              | <https://jdk5754.github.io/kelso-practice/>              |
 
 
 
 # Integration of RStudio with Git
 
-- Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
+- Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration) 
 - More detail if needed: <http://happygitwithr.com/index.html>
 
 *Content credit: This assignment was adapted from [Matt Beckman's GitHub Pages Assignment](https://mdbeckman.github.io/GitHub-Practice-184/).* 
