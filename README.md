@@ -73,7 +73,7 @@
 | Christopher Abrams      | Section 001       | chrisabrams3         | <https://chrisabrams3.github.io/animated-broccoli/>      |
 | Will Gerity             |  Section 001      |  willgerity          | <https://willgerity.github.io/GitHub-Practice-184/>      |
 | Jonathan Kelso          | Section 001       | jdk5754              | <https://jdk5754.github.io/kelso-practice/>              |
-
+| Xunyu Shen              | Section 001       | xunyushen            | <https://xunyushen.github.io/Stat184/>                   |
 
 
 # Integration of RStudio with Git
